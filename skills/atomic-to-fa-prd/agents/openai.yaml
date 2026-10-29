@@ -1,0 +1,4 @@
+interface:
+  display_name: "原子能力生成 FA PRD"
+  short_description: "从 MCP、CLI、API 设计语音 FA 需求，连续生成并交付可编辑图文飞书 PRD"
+  default_prompt: "使用 $atomic-to-fa-prd 分析我提供的原子能力，组织专家连续生成需求、交互与飞书 PRD，并按同版用例和原生流程图回读核验；遵守本次交付范围。"

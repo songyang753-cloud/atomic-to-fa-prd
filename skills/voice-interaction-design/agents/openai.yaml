@@ -1,0 +1,4 @@
+interface:
+  display_name: "语音产品PRD交互设计"
+  short_description: "根据确定的业务需求，直接生成完整PRD语音交互章节"
+  default_prompt: "使用 $voice-interaction-design，根据已确定的产品需求生成PRD交互设计章节，包含逐步流程、决策分支、话术、异常恢复和验收用例。"
